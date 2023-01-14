@@ -135,7 +135,7 @@ const Main = () => {
                   <div className='fees'>
                     <div className='flex pricebox'>
                       <div className='grade'>
-                      <span>{grade}<small>+1</small></span>
+                      <span>{grade}<small>+10</small></span>
                     </div>
                     <div className='price'>
                       <h5>{fees}</h5>
